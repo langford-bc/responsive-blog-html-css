@@ -6,6 +6,12 @@
     height: auto;
 }
 
+.linkedin-icon {
+    display: inline;
+    size: 30px;
+
+}
+
 .share-button {
     border: none;
     outline: none;
